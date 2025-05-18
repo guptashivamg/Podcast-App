@@ -1,7 +1,7 @@
 const authConfig= {
     providers: [
         {
-            domain: process.env.CONVEX_AUTH_DOMAIN,
+            domain: "https://sweeping-wren-99.clerk.accounts.dev",
             applicationID: "convex",
         },
     ]
